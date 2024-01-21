@@ -23,7 +23,7 @@ title: RootYou # the main title
 tagline: Machine writeups # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog for uploading pwn challenges :D
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://rooty0u.github.io"
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: RootYou
-  email: example@domain.com # change to your email address
+  email: rootyou.cock.li # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/rooty0u # change to your github homepage
